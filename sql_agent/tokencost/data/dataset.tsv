@@ -1,0 +1,51 @@
+id	category	english	bangla
+P01	question	What is the capital of Bangladesh?	বাংলাদেশের রাজধানী কোথায়?
+P02	question	What is the largest planet in our solar system?	আমাদের সৌরজগতের সবচেয়ে বড় গ্রহ কোনটি?
+P03	question	Who wrote the novel Pather Panchali?	পথের পাঁচালী উপন্যাসটি কে লিখেছেন?
+P04	question	Why is the sky blue?	আকাশ নীল দেখায় কেন?
+P05	question	How many days are there in a leap year?	একটি অধিবর্ষে কতদিন থাকে?
+P06	question	What is the boiling point of water at sea level in Celsius?	সমুদ্রপৃষ্ঠে পানির স্ফুটনাঙ্ক সেলসিয়াসে কত?
+P07	question	Which language has the most native speakers in the world?	বিশ্বে কোন ভাষায় সবচেয়ে বেশি মাতৃভাষী মানুষ কথা বলে?
+P08	question	When did Bangladesh gain independence?	বাংলাদেশ কখন স্বাধীনতা লাভ করে?
+P09	question	What does a CPU do in a computer?	কম্পিউটারে CPU কী কাজ করে?
+P10	question	Is the Pacific the largest ocean on Earth?	প্রশান্ত মহাসাগর কি পৃথিবীর সবচেয়ে বড় মহাসাগর?
+P11	instruction	Please translate the word 'library' into Bangla.	অনুগ্রহ করে 'library' শব্দটির বাংলা অনুবাদ লেখো।
+P12	instruction	List three benefits of drinking water in the morning.	সকালে পানি পান করার তিনটি উপকারিতা লেখো।
+P13	instruction	Write a polite message asking my manager for a day off.	ছুটির জন্য ম্যানেজারের কাছে ভদ্রভাবে অনুরোধ জানিয়ে একটি বার্তা লেখো।
+P14	instruction	Give me five tips for better sleep.	ভালো ঘুমের জন্য আমাকে পাঁচটি পরামর্শ দাও।
+P15	instruction	Suggest a name for a new coffee shop near a university.	একটি বিশ্ববিদ্যালয়ের কাছাকাছি নতুন একটি কফি শপের নাম সাজেস্ট করো।
+P16	instruction	Rewrite this sentence in a formal tone: 'Hey, can you send me the file?'	এই বাক্যটি আনুষ্ঠানিক ভাষায় লেখো: 'আরে, ফাইলটা আমাকে পাঠাতে পারবে?'
+P17	instruction	Make a shopping list for a simple breakfast for two people.	দুজনের জন্য একটি সহজ নাস্তার বাজারের তালিকা তৈরি করো।
+P18	instruction	Describe the colour red to a child in one sentence.	এক বাক্যে একটি শিশুকে লাল রঙের বর্ণনা দাও।
+P19	instruction	Give the opposite of the word 'happy'.	'happy' শব্দটির বিপরীত শব্দ লেখো।
+P20	instruction	Name four fruits that are rich in vitamin C.	ভিটামিন সি সমৃদ্ধ চারটি ফলের নাম বলো।
+P21	explanation	Explain what photosynthesis is in simple terms.	সালোকসংশ্লেষণ কী, তা সহজভাবে ব্যাখ্যা করো।
+P22	explanation	Briefly explain what inflation means.	মুদ্রাস্ফীতি বলতে কী বোঝায়, সংক্ষেপে ব্যাখ্যা করো।
+P23	explanation	Explain the difference between weather and climate.	আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য ব্যাখ্যা করো।
+P24	explanation	Describe what a neural network is in two sentences.	নিউরাল নেটওয়ার্ক কী, দুটি বাক্যে বর্ণনা করো।
+P25	explanation	Explain why the monsoon brings rain to Bangladesh.	মৌসুমি বায়ু বাংলাদেশে বৃষ্টি আনে কেন, তা ব্যাখ্যা করো।
+P26	explanation	What is a database index and why is it useful?	ডেটাবেস ইনডেক্স কী এবং এটি কেন কাজে লাগে?
+P27	explanation	Explain what a virus is in one short paragraph.	ভাইরাস কী, এক ছোট অনুচ্ছেদে ব্যাখ্যা করো।
+P28	explanation	Explain the concept of supply and demand.	চাহিদা ও জোগানের ধারণাটি ব্যাখ্যা করো।
+P29	explanation	How does a refrigerator keep food cold?	ফ্রিজ কীভাবে খাবার ঠান্ডা রাখে?
+P30	explanation	Explain what an API is to a beginner.	একজন নতুন শিক্ষার্থীকে API কী, তা ব্যাখ্যা করো।
+P31	arithmetic	What is 245 plus 178?	245 যোগ 178 কত?
+P32	arithmetic	What is 12 multiplied by 15?	12 কে 15 দিয়ে গুণ করলে কত হয়?
+P33	arithmetic	If a book costs 350 taka and I buy 4 books, how much do I pay?	একটি বইয়ের দাম ৩৫০ টাকা হলে আমি ৪টি বই কিনলে মোট কত টাকা দিতে হবে?
+P34	arithmetic	What is 1000 minus 387?	1000 থেকে 387 বিয়োগ করলে কত হয়?
+P35	arithmetic	Divide 144 by 12 and tell me the result.	144 কে 12 দিয়ে ভাগ করে ফলাফল বলো।
+P36	arithmetic	What is 15 percent of 800?	800 এর 15 শতাংশ কত?
+P37	arithmetic	A train travels 60 kilometres per hour. How far does it travel in 3 hours?	একটি ট্রেন ঘণ্টায় ৬০ কিলোমিটার বেগে চলে। ৩ ঘণ্টায় এটি কত কিলোমিটার যাবে?
+P38	arithmetic	What is 7 squared?	7 এর বর্গ কত?
+P39	summary	Summarise this sentence in five words: The new metro line will reduce traffic jams in central Dhaka and save commuters much time every day.	এই বাক্যটি পাঁচটি শব্দে সংক্ষেপ করো: নতুন মেট্রো লাইন কেন্দ্রীয় ঢাকার যানজট কমাবে এবং যাত্রীদের প্রতিদিন অনেক সময় বাঁচাবে।
+P40	summary	Summarise in one sentence: Regular exercise improves heart health, reduces stress, and helps people maintain a healthy weight.	এক বাক্যে সংক্ষেপ করো: নিয়মিত ব্যায়াম হৃদযন্ত্রের স্বাস্থ্য ভালো রাখে, মানসিক চাপ কমায় এবং সুস্থ ওজন বজায় রাখতে সাহায্য করে।
+P41	summary	Summarise: The school will remain closed next week because of heavy rain, and classes will resume on Monday.	সংক্ষেপ করো: ভারী বৃষ্টির কারণে আগামী সপ্তাহে স্কুল বন্ধ থাকবে এবং সোমবার থেকে ক্লাস আবার শুরু হবে।
+P42	summary	Summarise this sentence in three words: The company announced record profits this year despite a difficult global market.	এই বাক্যটি তিনটি শব্দে সংক্ষেপ করো: কঠিন বৈশ্বিক বাজার সত্ত্বেও কোম্পানিটি এই বছর রেকর্ড মুনাফার ঘোষণা দিয়েছে।
+P43	summary	Summarise in one sentence: Our team finished the project early, fixed most bugs, and will hold a review meeting on Thursday.	এক বাক্যে সংক্ষেপ করো: আমাদের দল প্রকল্পটি আগেভাগে শেষ করেছে, বেশিরভাগ বাগ ঠিক করেছে এবং বৃহস্পতিবার একটি পর্যালোচনা সভা করবে।
+P44	summary	Summarise: Drinking enough water helps the body regulate temperature, carry nutrients, and remove waste.	সংক্ষেপ করো: পর্যাপ্ত পানি পান শরীরের তাপমাত্রা নিয়ন্ত্রণ করে, পুষ্টি পরিবহন করে এবং বর্জ্য দূর করে।
+P45	long	I am planning a trip to Cox's Bazar next month with my family. We have three children and a limited budget. Could you suggest a simple plan for three days? Please include places to visit, approximate travel options, and tips for saving money.	আমি আগামী মাসে পরিবারের সাথে কক্সবাজার যাওয়ার পরিকল্পনা করছি। আমাদের তিনটি সন্তান আছে এবং বাজেট সীমিত। তিন দিনের একটি সহজ পরিকল্পনা দিতে পারবে? অনুগ্রহ করে দর্শনীয় স্থান, যাতায়াতের আনুমানিক উপায় এবং টাকা বাঁচানোর পরামর্শ অন্তর্ভুক্ত করো।
+P46	long	Our online store received many complaints last week about late deliveries. The warehouse team says the new software caused delays. Please write a short email to the customers apologising and explaining that we are fixing the problem. Keep the tone professional and warm.	গত সপ্তাহে আমাদের অনলাইন দোকানে দেরিতে ডেলিভারি নিয়ে অনেক অভিযোগ এসেছে। গুদাম দলের মতে নতুন সফটওয়্যারের কারণে বিলম্ব হয়েছে। অনুগ্রহ করে গ্রাহকদের কাছে ক্ষমা চেয়ে একটি ছোট ইমেইল লেখো এবং ব্যাখ্যা করো যে আমরা সমস্যাটি ঠিক করছি। ভাষা হোক পেশাদার ও আন্তরিক।
+P47	long	Climate change is affecting farmers in many parts of Bangladesh. Floods arrive earlier, and salt water is moving further inland in the coastal areas. Explain how these changes affect rice cultivation and what farmers can do to adapt.	জলবায়ু পরিবর্তন বাংলাদেশের অনেক অঞ্চলের কৃষকদের প্রভাবিত করছে। বন্যা আগে আসছে এবং উপকূলীয় এলাকায় লবণাক্ত পানি ভেতরের দিকে এগিয়ে আসছে। এই পরিবর্তনগুলো ধান চাষকে কীভাবে প্রভাবিত করে এবং কৃষকরা মানিয়ে নিতে কী করতে পারেন, তা ব্যাখ্যা করো।
+P48	long	I want to learn programming as a complete beginner. I have one hour each day. Which language should I start with, and how should I plan my first month? Please keep the answer practical and easy to follow.	আমি একজন সম্পূর্ণ নতুন শিক্ষার্থী হিসেবে প্রোগ্রামিং শিখতে চাই। প্রতিদিন আমার হাতে এক ঘণ্টা সময় আছে। কোন ভাষা দিয়ে শুরু করা উচিত এবং প্রথম মাসের পরিকল্পনা কীভাবে করব? উত্তর ব্যবহারিক ও সহজে অনুসরণযোগ্য রেখো।
+P49	long	A small bakery sold 120 loaves on Monday, 135 on Tuesday, and 150 on Wednesday. The owner wants to know the average daily sales and whether sales are increasing. Explain the calculation step by step and give a short conclusion.	একটি ছোট বেকারি সোমবারে ১২০টি, মঙ্গলবারে ১৩৫টি এবং বুধবারে ১৫০টি পাউরুটি বিক্রি করেছে। মালিক গড় দৈনিক বিক্রি এবং বিক্রি বাড়ছে কি না, তা জানতে চান। হিসাবটি ধাপে ধাপে ব্যাখ্যা করো এবং একটি ছোট সিদ্ধান্ত দাও।
+P50	long	Imagine you are a teacher explaining the water cycle to young students. Describe evaporation, condensation, precipitation, and collection in simple language. Use short sentences, and end with one question to check their understanding.	কল্পনা করো তুমি ছোট শিক্ষার্থীদের কাছে পানিচক্র ব্যাখ্যা করছ। বাষ্পীভবন, ঘনীভবন, বৃষ্টিপাত এবং সংগ্রহ সহজ ভাষায় বর্ণনা করো। ছোট ছোট বাক্য ব্যবহার করো এবং শেষে তাদের বোঝার যাচাই করতে একটি প্রশ্ন দাও।

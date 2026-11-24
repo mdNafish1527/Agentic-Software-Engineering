@@ -1,0 +1,11 @@
+id,category,english_answer_correct,bangla_answer_correct,bangla_answer_useful,notes
+P01,question,,,,
+P04,question,,,,
+P11,instruction,,,,
+P16,instruction,,,,
+P21,explanation,,,,
+P25,explanation,,,,
+P31,arithmetic,,,,
+P39,summary,,,,
+P45,long,,,,
+P49,long,,,,
