@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DomainNotice",
+  "x-schema-version": 1,
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["domain", "notice_type", "registrar", "issue_date", "action_required"],
+  "properties": {
+    "domain": {"type": "string", "minLength": 3},
+    "notice_type": {
+      "type": "string",
+      "enum": ["expiry_reminder", "renewal_confirmation", "transfer_request",
+               "suspension_notice", "dispute_notice", "verification_request"]
+    },
+    "registrar": {"type": "string", "minLength": 1},
+    "issue_date": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "deadline_date": {"type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "amount": {"type": ["number", "null"]},
+    "currency": {"type": ["string", "null"], "pattern": "^[A-Z]{3}$"},
+    "action_required": {"type": "boolean"}
+  }
+}

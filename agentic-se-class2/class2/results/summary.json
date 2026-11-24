@@ -1,0 +1,162 @@
+{
+  "A": {
+    "runs": [
+      {
+        "run": "A_run1",
+        "n": 50,
+        "invalid_rate": 1.0,
+        "field_accuracy": 0.0,
+        "per_field_accuracy": {
+          "domain": 0.0,
+          "notice_type": 0.0,
+          "registrar": 0.0,
+          "issue_date": 0.0,
+          "deadline_date": 0.0,
+          "amount": 0.0,
+          "currency": 0.0,
+          "action_required": 0.0
+        },
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0
+      },
+      {
+        "run": "A_run2",
+        "n": 50,
+        "invalid_rate": 1.0,
+        "field_accuracy": 0.0,
+        "per_field_accuracy": {
+          "domain": 0.0,
+          "notice_type": 0.0,
+          "registrar": 0.0,
+          "issue_date": 0.0,
+          "deadline_date": 0.0,
+          "amount": 0.0,
+          "currency": 0.0,
+          "action_required": 0.0
+        },
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0
+      },
+      {
+        "run": "A_run3",
+        "n": 50,
+        "invalid_rate": 1.0,
+        "field_accuracy": 0.0,
+        "per_field_accuracy": {
+          "domain": 0.0,
+          "notice_type": 0.0,
+          "registrar": 0.0,
+          "issue_date": 0.0,
+          "deadline_date": 0.0,
+          "amount": 0.0,
+          "currency": 0.0,
+          "action_required": 0.0
+        },
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0
+      }
+    ],
+    "invalid_rate": {
+      "mean": 1.0,
+      "stdev": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "field_accuracy": {
+      "mean": 0.0,
+      "stdev": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "cost_usd_per_run": {
+      "mean": 0.0,
+      "stdev": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "cost_usd_total": 0.0
+  },
+  "B": {
+    "runs": [
+      {
+        "run": "B_run1",
+        "n": 50,
+        "invalid_rate": 1.0,
+        "field_accuracy": 0.0,
+        "per_field_accuracy": {
+          "domain": 0.0,
+          "notice_type": 0.0,
+          "registrar": 0.0,
+          "issue_date": 0.0,
+          "deadline_date": 0.0,
+          "amount": 0.0,
+          "currency": 0.0,
+          "action_required": 0.0
+        },
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0
+      },
+      {
+        "run": "B_run2",
+        "n": 50,
+        "invalid_rate": 1.0,
+        "field_accuracy": 0.0,
+        "per_field_accuracy": {
+          "domain": 0.0,
+          "notice_type": 0.0,
+          "registrar": 0.0,
+          "issue_date": 0.0,
+          "deadline_date": 0.0,
+          "amount": 0.0,
+          "currency": 0.0,
+          "action_required": 0.0
+        },
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0
+      },
+      {
+        "run": "B_run3",
+        "n": 50,
+        "invalid_rate": 1.0,
+        "field_accuracy": 0.0,
+        "per_field_accuracy": {
+          "domain": 0.0,
+          "notice_type": 0.0,
+          "registrar": 0.0,
+          "issue_date": 0.0,
+          "deadline_date": 0.0,
+          "amount": 0.0,
+          "currency": 0.0,
+          "action_required": 0.0
+        },
+        "cost_usd": 0.0,
+        "prompt_tokens": 0,
+        "completion_tokens": 0
+      }
+    ],
+    "invalid_rate": {
+      "mean": 1.0,
+      "stdev": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "field_accuracy": {
+      "mean": 0.0,
+      "stdev": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "cost_usd_per_run": {
+      "mean": 0.0,
+      "stdev": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "cost_usd_total": 0.0
+  }
+}
